@@ -7,7 +7,7 @@
 #     puts "Pretty bird!"
 # end
 
-def parrot(*pretty_bird = "Squawk!")
+def parrot(pretty_bird = "Squawk!")
   puts "Squawk!"
     return pretty_bird
 end

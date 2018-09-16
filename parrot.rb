@@ -9,5 +9,5 @@
 
 def parrot(*pretty_bird)
   puts "Squawk!" 
-  pretty_bird return "Pretty bird!"
+  pretty_bird = "Pretty bird!"
 end

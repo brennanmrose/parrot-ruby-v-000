@@ -10,4 +10,5 @@
 def parrot(pretty_bird = "Squawk!")
   puts "Squawk!"
     return pretty_bird
+    pretty_bird = "Pretty bird!"
 end
